@@ -1,0 +1,6 @@
+{
+  "name": "OSHO E-BOOKS — Life, Meditation & Philosophy",
+  "description": "Discover Osho's life, meditation methods, and transformative philosophy in authentic English and Hindi digital editions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
